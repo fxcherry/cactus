@@ -1,0 +1,13 @@
+{
+  "name": "Cactus",
+  "description": "Cactus#3880 bot",
+  "version": "0.0.0",
+  "main": "Cactus.js",
+  "scripts": {
+    "start": "node Cactus.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
